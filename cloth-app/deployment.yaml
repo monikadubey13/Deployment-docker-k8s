@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cloth-app
-          image: indexfile/
+          image: indexfile/index.html
           ports:
             - containerPort: 80   
   strategy:
